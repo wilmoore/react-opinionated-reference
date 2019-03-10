@@ -1,0 +1,26 @@
+{
+  "name": "react-opinionated-reference",
+  "description": "An opinionated react reference based on my experiences working with react.",
+  "version": "1.0.0",
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "bugs": "https://github.com/wilmoore/react-opinionated-reference/issues",
+  "homepage": "https://github.com/wilmoore/react-opinionated-reference",
+  "keywords": [
+    "examples",
+    "opinionated",
+    "react",
+    "react-opinionated-reference",
+    "reactjs",
+    "reference",
+    "wm3"
+  ],
+  "license": "MIT",
+  "main": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wilmoore/{{name}}.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
